@@ -17,7 +17,7 @@ I created a CLI to generate READMEs
 
 
 ## Installation 
-Node.js
+Node.js<br>
 link to video of application in action 
 https://app.castify.com/view/db98b914-8200-4d97-856f-36bff5eb7803
 
